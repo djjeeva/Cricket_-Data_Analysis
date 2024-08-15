@@ -2,6 +2,8 @@
 
 # Cricket Analysis 
 
+### Dashboard Link : https://project.novypro.com/d8zn51
+
 I'm thrilled to share my submission for the Codebasics Cricket Analytics project. The project aimed at assembling the best XI cricket players from various international teams based on their performance in the last T20 World Cup.
 
 #My Journey:
